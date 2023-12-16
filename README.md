@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://Laleylaa.com">Al Siam</a></b>
+                <b><a target="_blank" href="https://Laleylaa.com">Leyla Guo</a></b>
         </samp>
 </h3>
 
