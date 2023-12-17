@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Leyla+Guo">「 Google Me 」</a>
     <br>
     「 I am a undergraduate student doing the degree of <b>computer engineering</b> 」
     <br>
@@ -68,9 +68,9 @@ Here are some ideas to get you started:
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: Laleylaa.dev@gmail.com<br/><br/>
+ ✌️ &emsp; Enjoy coding and  challenging the difficulties <br/><br/>
+ ❤️ &emsp; Love music, video games, and pets <br/><br/>
+ 📧 &emsp; Reach me anytime: itslaleyla@gmail.com <br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/Laleylaa/Laleylaa/issues)
 
 </p>
