@@ -66,7 +66,7 @@ Here are some ideas to get you started:
  # About me
  
 <p>
- <img align="right" width="350" height="300" src="/assets/cat.gif" alt="Coding gif" />
+ <img align="right" width="300" height="250" src="/assets/cat.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy coding and  challenging the difficulties <br/><br/>
  ❤️ &emsp; Love music, video games, and pets <br/><br/>
