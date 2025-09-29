@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <samp>
     <a href="https://www.google.com/search?q=Leyla+Guo">「 Google Me 」</a>
     <br>
-    「 I am a undergraduate student doing the degree of <b>computer engineering</b> 」
+    「 I am a postgraduate student doing the master degree of <b>artificial intelligence</b> 」
     <br>
     <br>
   </samp>
